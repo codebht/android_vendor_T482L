@@ -1,5 +1,5 @@
 # Inherit the file copy instructions created by the script
-$(call inherit-product, vendor/acer/T482L/T482L-vendor-blobs.mk)
+$(call inherit-product, vendor/acer/AcerOne8T482L/T482L-vendor-blobs.mk)
 
 PRODUCT_BRAND := Acer
 PRODUCT_DEVICE := T482L
