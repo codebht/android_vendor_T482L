@@ -11,7 +11,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/res/images/lcd_test_01.png:$(TARGET_COPY_OUT_VENDOR)/res/images/lcd_test_01.png \
     $(LOCAL_PATH)/proprietary/odm/etc/NOTICE.xml.gz:$(TARGET_COPY_OUT_VENDOR)/odm/etc/NOTICE.xml.gz \
     $(LOCAL_PATH)/proprietary/odm/etc/build.prop:$(TARGET_COPY_OUT_VENDOR)/odm/etc/build.prop \
-    $(LOCAL_PATH)/proprietary/odm/etc/vintf/manifest_dsds_se.xml:$(TARGET_COPY_OUT_VENDOR)/odm/etc/vintf/manifest_dsds_se.xml \
     $(LOCAL_PATH)/proprietary/odm/etc/vintf/manifest_tsts.xml:$(TARGET_COPY_OUT_VENDOR)/odm/etc/vintf/manifest_tsts.xml \
     $(LOCAL_PATH)/proprietary/odm/etc/vintf/manifest_ss_se.xml:$(TARGET_COPY_OUT_VENDOR)/odm/etc/vintf/manifest_ss_se.xml \
     $(LOCAL_PATH)/proprietary/odm/etc/vintf/manifest_qsqs.xml:$(TARGET_COPY_OUT_VENDOR)/odm/etc/vintf/manifest_qsqs.xml \
