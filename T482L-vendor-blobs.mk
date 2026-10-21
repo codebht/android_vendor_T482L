@@ -12,16 +12,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/odm/etc/NOTICE.xml.gz:$(TARGET_COPY_OUT_VENDOR)/odm/etc/NOTICE.xml.gz \
     $(LOCAL_PATH)/proprietary/odm/etc/build.prop:$(TARGET_COPY_OUT_VENDOR)/odm/etc/build.prop \
     $(LOCAL_PATH)/proprietary/odm/etc/vintf/manifest_tsts.xml:$(TARGET_COPY_OUT_VENDOR)/odm/etc/vintf/manifest_tsts.xml \
-    $(LOCAL_PATH)/proprietary/odm/etc/vintf/manifest_ss_se.xml:$(TARGET_COPY_OUT_VENDOR)/odm/etc/vintf/manifest_ss_se.xml \
-    $(LOCAL_PATH)/proprietary/odm/etc/vintf/manifest_qsqs.xml:$(TARGET_COPY_OUT_VENDOR)/odm/etc/vintf/manifest_qsqs.xml \
-    $(LOCAL_PATH)/proprietary/odm/etc/vintf/manifest_ss_se_ese.xml:$(TARGET_COPY_OUT_VENDOR)/odm/etc/vintf/manifest_ss_se_ese.xml \
-    $(LOCAL_PATH)/proprietary/odm/etc/vintf/manifest_dsds.xml:$(TARGET_COPY_OUT_VENDOR)/odm/etc/vintf/manifest_dsds.xml \
-    $(LOCAL_PATH)/proprietary/odm/etc/vintf/manifest_ss.xml:$(TARGET_COPY_OUT_VENDOR)/odm/etc/vintf/manifest_ss.xml \
-    $(LOCAL_PATH)/proprietary/odm/etc/vintf/manifest_dsds_se_ese.xml:$(TARGET_COPY_OUT_VENDOR)/odm/etc/vintf/manifest_dsds_se_ese.xml \
-    $(LOCAL_PATH)/proprietary/data/misc/ProjectConfig.mk:$(TARGET_COPY_OUT_VENDOR)/data/misc/ProjectConfig.mk \
-    $(LOCAL_PATH)/proprietary/bin/thermalloadalgod:$(TARGET_COPY_OUT_VENDOR)/bin/thermalloadalgod \
-    $(LOCAL_PATH)/proprietary/bin/dyserver:$(TARGET_COPY_OUT_VENDOR)/bin/dyserver \
-    $(LOCAL_PATH)/proprietary/bin/gsm0710muxd:$(TARGET_COPY_OUT_VENDOR)/bin/gsm0710muxd \
     $(LOCAL_PATH)/proprietary/bin/mtkcam-debug:$(TARGET_COPY_OUT_VENDOR)/bin/mtkcam-debug \
     $(LOCAL_PATH)/proprietary/bin/nvram_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/nvram_daemon \
     $(LOCAL_PATH)/proprietary/bin/netdc:$(TARGET_COPY_OUT_VENDOR)/bin/netdc \
